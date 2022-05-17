@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>UserList.qml</file>
+        <file>LeftBar.qml</file>
+        <file>common/ImageButton.qml</file>
+        <file>delegate/UserListDelegate.qml</file>
+        <file>source/icons/default_hover_image.png</file>
+        <file>source/icons/default_image.png</file>
+        <file>source/images/default_hover_image.png</file>
+        <file>source/images/default_image.png</file>
+        <file>common/GlobalConfig.qml</file>
+        <file>delegate/ChatListDelegate.qml</file>
+        <file>common/Bubble.qml</file>
+        <file>common/BasicText.qml</file>
+        <file>TitleBar.qml</file>
+        <file>source/icons/close.png</file>
+        <file>source/icons/close_hover.png</file>
+        <file>source/icons/setting.png</file>
+        <file>source/icons/setting_hover.png</file>
+        <file>ChatList.qml</file>
+        <file>common/ChatBubble.qml</file>
+        <file>script/BubbleNormal.js</file>
+        <file>delegate/TextDelegate.qml</file>
+        <file>delegate/FileDelegate.qml</file>
+        <file>source/images/txt.png</file>
+        <file>SendMessage.qml</file>
+    </qresource>
+</RCC>
